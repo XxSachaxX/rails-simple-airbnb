@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ .btn-outline-success {
+  position: absolute;
+  left: 1450px;
+ }
